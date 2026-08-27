@@ -1,0 +1,4 @@
+Lecture 1 Topics:
+- Introduction to Linux Shell
+- Basic Navigation (cd, ls, pwd)
+- File Management (mkdir, touch, cp, mv)
